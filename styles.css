@@ -1,0 +1,29 @@
+.header{
+background-image: url("/home/kirill/html/17/img/backHeader.jpg");
+background-size: 100%  100%;
+} 
+header{
+background-color: #2B2E4A;
+opacity: 0.9;
+height: 750px;
+color: #fff;
+}
+.head{
+height: 100px;
+width: 100%;
+margin: 0 auto;
+border-bottom: 2px solid #fff;
+}
+.headmain{
+height: 650px;
+padding-right: 0;
+}
+.headtext{
+padding: 50px;
+}
+.button{
+width: 125px;
+height: 55px;
+margin-top: -200px;
+font-size: 12px;
+}
