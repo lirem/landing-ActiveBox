@@ -26,3 +26,17 @@ width: 125px;
 height: 55px;
 font-size: 12px;
 }
+.imgkar{
+padding-top: 30px;
+padding-bottom: 30px;
+}
+.card-text{
+font-size: 12px;
+}
+.card-title{
+font-size: 14px;
+font-weight: bold;
+}
+.divkar{
+margin-top: 100px;
+}
